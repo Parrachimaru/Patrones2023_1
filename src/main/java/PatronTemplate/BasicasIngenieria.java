@@ -10,6 +10,7 @@ public abstract class BasicasIngenieria {
         cursoCalculo();
         //Asignaturas Especificas
         cursosEspecifico();
+        
 
     }
 
